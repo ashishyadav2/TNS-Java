@@ -1,4 +1,4 @@
-package com.practice.association;
+package com.concetps.association;
 
 public class Department {
     private String deptName;

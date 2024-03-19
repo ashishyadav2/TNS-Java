@@ -1,4 +1,4 @@
-package com.practice.assignmentone;
+package com.concetps.assignmentone;
 
 public class Employeee {
     private byte age;

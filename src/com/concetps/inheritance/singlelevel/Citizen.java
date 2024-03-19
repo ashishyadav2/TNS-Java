@@ -1,4 +1,4 @@
-package com.practice.inheritance.singlelevel;
+package com.concetps.inheritance.singlelevel;
 
 public class Citizen {
     private String nationality;

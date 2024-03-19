@@ -1,4 +1,4 @@
-package com.practice.inheritance.singlelevel;
+package com.concetps.inheritance.singlelevel;
 
 import java.util.Scanner;
 
